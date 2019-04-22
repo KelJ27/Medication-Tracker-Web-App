@@ -43,12 +43,12 @@
         <nav class="nav nav-masthead justify-content-center">
           <h3 class="masthead-brand">Team Overload</h3>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a class="nav-link" href="index.html">Home</a>
-          <a class="nav-link" href="#">Calendar</a>
+          <a class="nav-link" href="index.php">Home</a>
+          <a class="nav-link" href="calendar.php">Calendar</a>
           <a class="nav-link active" href="prescriptions.php">Prescriptions</a>
-          <a class="nav-link" href="#">Appointments</a>
+          <a class="nav-link" href="appointments.php">Appointments</a>
           <a class="nav-link" href="login.html">Login</a>
-          <a class="nav-link" href="register.html">Register</a>
+          <a class="nav-link" href="#">Logout</a>
         </nav>
       </div>
     </header>
@@ -301,7 +301,7 @@
       crossorigin="anonymous"
     ></script>
     <!--===============================================================================================-->
-    <<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <!--===============================================================================================-->
