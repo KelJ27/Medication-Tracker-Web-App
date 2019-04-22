@@ -47,7 +47,6 @@
           <a class="nav-link" href="calendar.php">Calendar</a>
           <a class="nav-link active" href="prescriptions.php">Prescriptions</a>
           <a class="nav-link" href="appointments.php">Appointments</a>
-          <a class="nav-link" href="login.html">Login</a>
           <a class="nav-link" href="#">Logout</a>
         </nav>
       </div>
